@@ -14,7 +14,7 @@ Este é um dos desafios de HTML do programa Discover da Rocketseat. Ele é um pr
 
 ## 🚀 Tecnologias
 
-Esse projeto foi desenvolvido com a tecnologia:
+Esse mini-projeto foi desenvolvido <strong>100%</strong> com:
 
 - HTML
 
