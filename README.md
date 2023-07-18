@@ -12,16 +12,16 @@ Este é um dos desafios de HTML do programa Discover da Rocketseat. Ele é um pr
 
 <br>
 
-## 🚀 Tecnologias
+## - Tecnologias
 
 Esse mini-projeto foi desenvolvido <strong>100%</strong> com:
 
 - HTML
 
-## 💻 Projeto
+## - Projeto
 
 Este glossário apresenta a estrutura do HTML.
 
-- [Acesse o projeto finalizado, online](https://maykbrito.github.io/devlinks)
+- [Acesse o projeto finalizado, online](https://giovannipacellirib.github.io/Glossary)
 
 
